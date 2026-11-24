@@ -1,6 +1,12 @@
 # 💫About Me :
 
-Hello there, I am Hassan, a Software Engineer
+I'm a Software Engineer and recent graduate in Software Engineering with a CGPA of 3.89/4.00. I specialize in full-stack web development, particularly the MERN stack, and enjoy building scalable, secure, and user-focused applications. My experience spans frontend and backend development, RESTful APIs, database design, cloud deployment, and AI integration. I've worked with technologies including React.js, Node.js, Express.js, MongoDB, PostgreSQL, Python, Java, and AWS.
+
+One of my key projects is Payvault, an AI-assisted escrow platform featuring LLM-powered dispute resolution, OCR-based information extraction, and real-time communication. I'm passionate about exploring the intersection of software engineering and artificial intelligence and continuously expanding my technical skills.
+
+I also secured 101st position nationwide, achieving a 99.6 percentile in the National Skill Competency Test (NSCT) 2026, conducted by HEC, among 33,000+ participants.
+
+I'm always eager to take on challenging problems, learn new technologies, and build software that solves real-world problems.
 
 ---
 
